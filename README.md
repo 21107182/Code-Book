@@ -2,32 +2,33 @@
 # Sudent Number: 21107182
 # March UD - RC 11
 
-
-
-ALL CODES
-https://github.com/21107182/Code-Book
-
-
-
-
-CODES BY CHAPTER
-
 CONPUTATIONAL THEOTY 
+
 1.1 AUTOMATON THEORY AND FORMAL LANGUAGES
+
 1.2 COMPUTABILITY THEORY
+
 1.3 COMPUTATIONAL COMPLEXITY THEORY
 
 DATA STRUCTURES AND ALGORITHMS
+
 2.1 DATA STRUCTURES
+
 2.2 ALGORITHMS
+
 2.3 Example of data structures and algorithms – NetworkX
+
 https://github.com/21107182/Code-Book/tree/main/DATA%20STRUCTURES%20AND%20ALGORITHMS
 
 DATASCIENCE AND MACHINE LEARNING
+
 3.1 Data science
+
 3.2 Machine learning
+
 https://github.com/21107182/Code-Book/tree/main/DATA%20SCIENCE%20AND%20MACHINE%20LEARNING
 
 OTHER CODE PRACTICES
+
 https://github.com/21107182/Code-Book/tree/main/OTHERS
 
